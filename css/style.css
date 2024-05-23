@@ -40,3 +40,6 @@
 
 /* Termos */
 @import "./termos/termos.css";
+
+/* Animacao */
+@import "./utilidades/animacao.css";
